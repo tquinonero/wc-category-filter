@@ -1,4 +1,4 @@
-Category filter for Woocommerce
+<h1>Category filter for Woocommerce</h1>
 Author: Toni Quiñonero
 How to edit the styles:
 1. Open wc-category-filter/assets/css/style.css
