@@ -1,8 +1,7 @@
 <h1>Category filter for Woocommerce</h1>
-Author: Toni Quiñonero
-How to edit the styles:
-1. Open wc-category-filter/assets/css/style.css
-
+<p>Author: Toni Quiñonero</p>
+<p>How to edit the styles:</p>
+<li>1. Open wc-category-filter/assets/css/style.css</li>
 modify the styles for the ID's:
 #wc-category-filter
 #wc-category-filter select
