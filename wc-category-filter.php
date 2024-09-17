@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WooCommerce Category Filter
- * Plugin URI: https://yourwebsite.com/
+ * Plugin URI: https://innov8ion.tech/
  * Description: A custom plugin to filter WooCommerce products by category using a shortcode.
  * Version: 1.0
- * Author: Your Name
- * Author URI: https://yourwebsite.com/
+ * Author: Author
+ * Author URI: https://innov8ion.tech/
  * License: GPL2
  * Text Domain: wc-category-filter
  */
