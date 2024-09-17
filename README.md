@@ -2,7 +2,7 @@
 <p>Author: Toni Quiñonero</p>
 <p>How to edit the styles:</p>
 <li>1. Open wc-category-filter/assets/css/style.css</li>
-modify the styles for the ID's:
+<li>2. modify the styles for the ID's:</li>
 #wc-category-filter
 #wc-category-filter select
 #wc-category-filter button
