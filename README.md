@@ -3,8 +3,9 @@
 <p>How to edit the styles:</p>
 <li>1. Open wc-category-filter/assets/css/style.css</li>
 <li>2. modify the styles for the ID's:</li>
+<br>
 #wc-category-filter
 #wc-category-filter select
 #wc-category-filter button
-
-Alternatively, you can also customise these elements by using these selectors in your WordPress installation's "Additional CSS" field.
+<br>
+<p>Alternatively, you can also customise these elements by using these selectors in your WordPress installation's "Additional CSS" field.</p>
